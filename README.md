@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## About me
+👋 Hi, I'm @appalars.
+:computer: I'm currently learning game and multimedia development in 📌Heidelberg, Germany.
 <!--
 **appalars/appalars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
